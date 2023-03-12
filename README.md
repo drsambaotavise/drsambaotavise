@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="[https://imageio.forbes.com/specials-images/imageserve/60f1e792c7e89f933811814c/DevOps-concept/960x0.jpg?format=jpg&width=960](https://media.istockphoto.com/id/1323937065/vector/devops-software-development-operations-infinity-symbol-web-development-concept-in-isometric.jpg?s=612x612&w=is&k=20&c=3jdRMY-5hCD6GaBSxxx3T4aI8yHb_4dqsrx2LC2NVPg=)" alt="cover" alt="cover" />
+<img width="100%" height = "250px" src="https://media.istockphoto.com/id/1323937065/vector/devops-software-development-operations-infinity-symbol-web-development-concept-in-isometric.jpg?s=612x612&w=is&k=20&c=3jdRMY-5hCD6GaBSxxx3T4aI8yHb_4dqsrx2LC2NVPg=" alt="cover" alt="cover" />
 </div>
 
 <h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
