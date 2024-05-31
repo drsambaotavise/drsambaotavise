@@ -6,7 +6,6 @@
 
 <p align='center'>
  
-[![Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fdrsambaotavise%2Fvisitors)](https://github.com/drsambaotavise/drsambaotavise)
 [![GitHub stars](https://img.shields.io/github/stars/drsambaotavise/drsambaotavise?style=social)](https://github.com/drsambaotavise/drsambaotavise)
 
  
