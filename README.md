@@ -1,6 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="<img width="100%" height="250px" src="https://wac-cdn.atlassian.com/dam/jcr:ef9fe684-c6dc-4ba0-a636-4ef7bcfa11f1/New%20DevOps%20Loop%20image.png?cdnVersion=1768" alt="cover" />
-" alt="cover" alt="cover" />
+    <img width="100%" height="250px" src="https://wac-cdn.atlassian.com/dam/jcr:ef9fe684-c6dc-4ba0-a636-4ef7bcfa11f1/New%20DevOps%20Loop%20image.png?cdnVersion=1768" alt="cover" />
 </div>
 
 <h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
