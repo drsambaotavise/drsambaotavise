@@ -1,5 +1,6 @@
 <div align="center">
-<img width="100%" height = "250px" src="[https://media.istockphoto.com/id/1323937065/vector/devops-software-development-operations-infinity-symbol-web-development-concept-in-isometric.jpg?s=612x612&w=is&k=20&c=3jdRMY-5hCD6GaBSxxx3T4aI8yHb_4dqsrx2LC2NVPg=](https://wac-cdn.atlassian.com/dam/jcr:ef9fe684-c6dc-4ba0-a636-4ef7bcfa11f1/New%20DevOps%20Loop%20image.png?cdnVersion=1768)" alt="cover" alt="cover" />
+<img width="100%" height = "250px" src="<img width="100%" height="250px" src="https://wac-cdn.atlassian.com/dam/jcr:ef9fe684-c6dc-4ba0-a636-4ef7bcfa11f1/New%20DevOps%20Loop%20image.png?cdnVersion=1768" alt="cover" />
+" alt="cover" alt="cover" />
 </div>
 
 <h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
