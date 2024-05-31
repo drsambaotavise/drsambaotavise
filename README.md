@@ -6,7 +6,7 @@
 
 <p align='center'>
  
-[![Visitors](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fdrsambaotavise%2Fdrsambaotavise%2Fvisitors-badge)](https://github.com/drsambaotavise/drsambaotavise)
+[![Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fdrsambaotavise%2Fdrsambaotavise)](https://github.com/drsambaotavise/drsambaotavise)
  
 </p>
 <div size='20px'> Hello! I am Samba Otavise. A Cloud/DevOps Engineer. Thank You for taking the time to view my GitHub Profile :smile: </div>
